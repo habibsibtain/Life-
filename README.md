@@ -1,4 +1,4 @@
-# LIFE – Technical Documentation
+# LIFE
 
 ## Project Overview
 
